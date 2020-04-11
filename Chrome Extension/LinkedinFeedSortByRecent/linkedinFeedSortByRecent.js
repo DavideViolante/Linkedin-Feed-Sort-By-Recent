@@ -5,7 +5,7 @@
 
 
 (function () {
-  document.cookie = 'UpdateFinder=chronFeed; domain=linkedin.com; path=/';
+  document.cookie = 'UpdateFinder=chronFeed; domain=www.linkedin.com; path=/';
   const topOrRecentElem = document.querySelector('.mh1');
   if (topOrRecentElem && topOrRecentElem.textContent.trim() === 'Top') {
     const recentDropdownItem = document.getElementById('ember61');
