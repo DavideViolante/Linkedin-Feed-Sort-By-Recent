@@ -1,11 +1,11 @@
-# Linkedin Feed Sort By Recent [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/#.svg)](#) [![Donate](https://img.shields.io/badge/paypal-donate-179BD7.svg)](https://www.paypal.me/dviolante) [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://en.wikipedia.org/wiki/MIT_License)
+# Linkedin Feed Sort By Recent [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/amcdflppdlgaejkildbondhbjojgkaai.svg)](https://chrome.google.com/webstore/detail/amcdflppdlgaejkildbondhbjojgkaai/) [![Donate](https://img.shields.io/badge/paypal-donate-179BD7.svg)](https://www.paypal.me/dviolante) [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://en.wikipedia.org/wiki/MIT_License)
 
 ### Info
 Chrome extension/userscript to automatically set Sort by Recent on Linkedin feed.
 
 ### Installation
 ##### Extension (Google Chrome)
-1. Install the extension from the official [Google Chrome Webstore](#).
+1. Install the extension from the official [Google Chrome Webstore](https://chrome.google.com/webstore/detail/amcdflppdlgaejkildbondhbjojgkaai/).
 
 ##### Userscript (Firefox, Opera, etc...)
 1. Install an extension that allows you to install userscripts (eg: Greasemonkey, Tampermonkey, Violentmonkey, etc).
