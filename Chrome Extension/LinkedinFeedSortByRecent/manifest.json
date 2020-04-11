@@ -15,9 +15,7 @@
   "browser_action": {
     "default_title": ""
   },
-  "permissions": [
-    "tabs"
-  ],
+  "permissions": [],
 
   "content_scripts": [
     {
