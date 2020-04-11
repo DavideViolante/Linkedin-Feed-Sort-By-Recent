@@ -1,4 +1,4 @@
-# Linkedin Feed Sort By Recent [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/hcpffdppeejlgoaagghjfnecaofbghgp.svg)](#) [![Donate](https://img.shields.io/badge/paypal-donate-179BD7.svg)](https://www.paypal.me/dviolante) [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://en.wikipedia.org/wiki/MIT_License)
+# Linkedin Feed Sort By Recent [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/#.svg)](#) [![Donate](https://img.shields.io/badge/paypal-donate-179BD7.svg)](https://www.paypal.me/dviolante) [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://en.wikipedia.org/wiki/MIT_License)
 
 ### Info
 Chrome extension/userscript to automatically set Sort by Recent on Linkedin feed.

@@ -5,7 +5,7 @@
 // @version         2020.04.11 (1.0)
 // @namespace       linkedinfeedsortbyrecent
 // @author          https://github.com/DavideViolante/
-// @downloadURL     https://github.com/DavideViolante/Linkedin-Feed-Sort-By-Recent/raw/master/linkedinFeedSortByRecent.user.js
+// @downloadURL     https://github.com/DavideViolante/Linkedin-Feed-Sort-By-Recent/raw/master/Userscript/linkedinFeedSortByRecent.user.js
 // @grant           none
 // @include         http*://*.linkedin.com/*
 // ==/UserScript==
