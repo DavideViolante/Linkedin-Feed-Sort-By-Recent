@@ -15,8 +15,8 @@ Chrome extension/userscript to automatically set Sort by Recent on Linkedin feed
 ### Uninstall
 1. Once you uninstalled the extension/userscript you also need to remove a particular cookie to disable the sorting.
 2. Go to linkedin.com and click the padlock icon in the address bar.
-3. Click Cookies and find www.linkedin.com.
-4. Go inside the Cookie folder and find a cookie called UpdateFinder and remove it.
+3. Click Cookies and find `www.linkedin.com`.
+4. Go inside the `Cookie` folder and find a cookie called `UpdateFinder` and remove it.
 
 ### Issues
 Open an issue if this stops working.
