@@ -5,11 +5,14 @@
 
 (function () {
   document.cookie = 'UpdateFinder=chronFeed; domain=www.linkedin.com; path=/';
-  const topOrRecentElem = document.querySelector('.mh1');
-  if (topOrRecentElem && topOrRecentElem.textContent.trim() === 'Top') {
-    // Open the dropdown menu
-    topOrRecentElem.click();
-    // Click Recent from the dropdown menu
-    document.querySelectorAll('.mv1')[1].click();
+  window.addEventListener("load", onLoad, false);
+  function onLoad() {
+    const topOrRecentElem = document.querySelector('.mh1');
+    if (topOrRecentElem && topOrRecentElem.textContent.trim() === 'Top') {
+      // Open the dropdown menu
+      topOrRecentElem.click();
+      // Wait for animation, then click Recent
+      setTimeout(() => document.querySelectorAll('.mv1')[1].click(), 500);
+    }
   }
 })();
