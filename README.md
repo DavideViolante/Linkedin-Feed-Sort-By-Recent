@@ -6,6 +6,7 @@ Chrome extension/userscript to automatically set Sort by Recent on Linkedin feed
 ### Installation
 ##### Extension (Google Chrome)
 1. Install the extension from the official [Google Chrome Webstore](https://chrome.google.com/webstore/detail/amcdflppdlgaejkildbondhbjojgkaai/).
+2. Go to Linkedin.com, if it does not work at first try, reload the page once.
 
 ##### Userscript (Firefox, Opera, etc...)
 1. Install an extension that allows you to install userscripts (eg: Greasemonkey, Tampermonkey, Violentmonkey, etc).
@@ -16,7 +17,7 @@ Chrome extension/userscript to automatically set Sort by Recent on Linkedin feed
 1. Once you uninstalled the extension/userscript you also need to remove a particular cookie to disable the sorting.
 2. Go to linkedin.com and click the padlock icon in the address bar.
 3. Click Cookies and find `www.linkedin.com`.
-4. Go inside the `Cookie` folder and find a cookie called `UpdateFinder` and remove it.
+4. Go inside the `Cookie` folder and find a cookie called `feed-sort` and remove it.
 
 ### Issues
 Open an issue if this stops working.
