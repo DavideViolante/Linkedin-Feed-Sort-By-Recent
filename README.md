@@ -1,5 +1,8 @@
 # Linkedin Feed Sort By Recent [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/amcdflppdlgaejkildbondhbjojgkaai.svg)](https://chrome.google.com/webstore/detail/amcdflppdlgaejkildbondhbjojgkaai/) [![Donate](https://img.shields.io/badge/paypal-donate-179BD7.svg)](https://www.paypal.me/dviolante) [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://en.wikipedia.org/wiki/MIT_License)
 
+### Discontinued
+This repo is discontinued because LinkedIn finally allowed users to set the feed sorting in Settings.
+
 ### Info
 Chrome extension/userscript to automatically set Sort by Recent on Linkedin feed.
 
